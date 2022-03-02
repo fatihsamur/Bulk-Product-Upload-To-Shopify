@@ -1,0 +1,6 @@
+{
+    "require": {
+        "shopify/shopify-api": "^1.0",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
